@@ -10,14 +10,16 @@ To run this project, you need to install the required libraries. You can do this
 
 1. **Clone the repository**:
 
-git clone <repository-url>
-cd <repository-directory>
+   ```bash
+   git clone <repository-url>
+   cd <repository-name>
+   ```
 
 2. **Create a virtual environment (optional but recommended)**:
-
-python -m venv venv
-source venv/bin/activate # On Windows use venv\Scripts\activate
-
+   ```bash
+   python -m venv venv
+   source venv/bin/activate # On Windows use venv\Scripts\activate
+   ```
 3. **Install the required libraries**:
 
 pip install chromadb chromadb-client langchain streamlit
