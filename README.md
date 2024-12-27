@@ -21,17 +21,17 @@ To run this project, you need to install the required libraries. You can do this
    source venv/bin/activate # On Windows use venv\Scripts\activate
    ```
 3. **Install the required libraries**:
-
-pip install chromadb chromadb-client langchain streamlit
-
+   ```bash
+   pip install chromadb chromadb-client langchain streamlit
+   ```
 4. **Install any additional dependencies for Llama Index** (check specific instructions in their documentation).
 
 ## Usage
 
 To run the application, execute the following command in your terminal:
-
-streamlit run model.py
-
+   ```bash
+   streamlit run model.py
+   ```
 This will start a local web server and open the application in your default web browser.
 
 Once the application is running, you can select a language model from the sidebar and start chatting by entering your questions in the input box.
