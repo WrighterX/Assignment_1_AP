@@ -43,10 +43,12 @@ Here are some examples of how to interact with the application:
 1. **Basic Interaction**:
    - User: "hi"
    - Assistant: "How can I help you?"
+![interface](https://github.com/user-attachments/assets/e04a0a90-c1f8-4ff0-b16a-9804977b69d3)
 
 2. **Basic Questions**:
    - User: "How long does it take to train an LLM?"
    - Assistant: "Training a Large Language Model (LLM) is a complex process that requires significant computational resources and time. The training time for an LLM can vary greatly depending on several factors, such as..."
+![test_3](https://github.com/user-attachments/assets/f7c6ee53-300c-4ca3-8a2b-fdde1c838f36)
 
 The application retrieves relevant context from previous interactions stored in ChromaDB to provide more accurate and context-aware responses.
 
