@@ -1,0 +1,2 @@
+model: llama3.2:latest
+embedding: all-minilm

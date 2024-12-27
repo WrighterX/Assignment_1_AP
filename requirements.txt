@@ -1,0 +1,5 @@
+main components:
+chromadb, ollama, streamlit
+
+libraries:
+chromadb, llama index, langchain, streamlit, logging, time...
